@@ -1,7 +1,7 @@
 from setuptools import find_packages,setup
 
 setup(
-    name='Machine Learning Model Parameter Tuning',
+    name="Machine Learning Model's Parameter Tuning",
     version='0.0.0',
     author='KRSNA',
     author_email='krisnabadde@gmail.com',

@@ -1,8 +1,0 @@
-setup.py
-Machine_Learning_Model_Parameter_Tuning.egg-info/PKG-INFO
-Machine_Learning_Model_Parameter_Tuning.egg-info/SOURCES.txt
-Machine_Learning_Model_Parameter_Tuning.egg-info/dependency_links.txt
-Machine_Learning_Model_Parameter_Tuning.egg-info/requires.txt
-Machine_Learning_Model_Parameter_Tuning.egg-info/top_level.txt
-src/__init__.py
-src/helper.py
