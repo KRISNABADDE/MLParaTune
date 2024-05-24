@@ -7,6 +7,7 @@ from sklearn.svm import SVC
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.metrics import accuracy_score
 from sklearn.ensemble import RandomForestClassifier, BaggingClassifier,GradientBoostingClassifier
+import streamlit as st
 
 
 def load_initial_graph(dataset, dataset_type, ax):
