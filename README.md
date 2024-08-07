@@ -37,12 +37,11 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
 ```bash
 pip install -r requirements.txt
-```bash
+```
 
 4. Run app
 
 ```bash
-
 streamlit run app.py
 ```
 
