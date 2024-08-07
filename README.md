@@ -28,18 +28,18 @@ cd MLParaTune
 
 2. Create a virtual environment and activate it
 
-'''bash
+```bash
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
 3. Install the required dependencies
 
-'''bash
+```bash
 pip install -r requirements.txt
 
 4. Run app
 
-'''bash
+```bash
 
 streamlit run app.py
 
