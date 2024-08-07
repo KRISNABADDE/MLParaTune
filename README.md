@@ -25,21 +25,24 @@ This Streamlit application allows users to visualize the decision boundaries of 
 ```bash
 git clone https://github.com/KRISNABADDE/MLParaTune.git
 cd MLParaTune
+```
 
 2. Create a virtual environment and activate it
 
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-
+```
 3. Install the required dependencies
 
 ```bash
 pip install -r requirements.txt
+```bash
 
 4. Run app
 
 ```bash
 
 streamlit run app.py
+```
 
